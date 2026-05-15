@@ -22,34 +22,34 @@ Personal trainers
 Wellness clinics
 Health tracking applications
 Fitness management systems
-## 🚀 Features
-👤 User Management
-Store and manage member information
-Register new users
-Update member profiles
-Track user fitness progress
-## 🏋️ Workout Management
-Create workout plans
-Assign workouts to users
-Track workout schedules
-Manage exercise details
-## 🥗 Nutrition & Wellness
-Maintain diet plans
-Store nutrition information
-Track wellness goals
-Monitor health-related activities
+# 🚀 Features
+## 👤 User Management
+Store and manage member information <br>
+Register new users <br>
+Update member profiles <br>
+Track user fitness progress 
+## 🏋️ Workout Management 
+Create workout plans <br>
+Assign workouts to users <br>
+Track workout schedules <br>
+Manage exercise details 
+## 🥗 Nutrition & Wellness 
+Maintain diet plans <br>
+Store nutrition information <br>
+Track wellness goals <br>
+Monitor health-related activities 
 ## 👨‍🏫 Trainer Management
-Manage trainer information
-Assign trainers to members
-Track trainer schedules
+Manage trainer information <br>
+Assign trainers to members <br>
+Track trainer schedules <br>
 ## 💳 Membership Management
-Store membership details
-Track membership duration
-Manage subscription records
-## 📊 Database Operations
-Insert, update, delete, and retrieve records
-Structured relational database design
-Entity relationships and normalization
+Store membership details <br>
+Track membership duration <br>
+Manage subscription records 
+## 📊 Database Operations 
+Insert, update, delete, and retrieve records <br>
+Structured relational database design <br>
+Entity relationships and normalization <br>
 Efficient query handling
 ## 🛠️ Technologies Used
 
