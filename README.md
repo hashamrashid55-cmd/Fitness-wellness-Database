@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # FitCore — Fitness Management System
 
 ## Project Structure
@@ -77,5 +77,4 @@ All accounts use password: **password**
 - 🏋️ **Trainer**: Profile, create sessions, view workout & nutrition plans, member health overview
 - 🧑 **Member**: Profile, log health metrics, view trend chart, subscriptions, devices, trainers
 =======
-# Database_Project_fitness-wellness
->>>>>>> c5757119e86bf322b55feed925f18a20816166d1
+
