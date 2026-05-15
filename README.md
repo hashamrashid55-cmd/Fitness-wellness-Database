@@ -38,7 +38,7 @@ Maintain diet plans <br>
 Store nutrition information <br>
 Track wellness goals <br>
 Monitor health-related activities 
-###👨‍🏫 Trainer Management
+### 👨‍🏫 Trainer Management
 Manage trainer information <br>
 Assign trainers to members <br>
 Track trainer schedules <br>
