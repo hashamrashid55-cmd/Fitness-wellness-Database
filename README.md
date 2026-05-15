@@ -23,43 +23,43 @@ Wellness clinics
 Health tracking applications
 Fitness management systems
 # 🚀 Features
-## 👤 User Management
+### 👤 User Management
 Store and manage member information <br>
 Register new users <br>
 Update member profiles <br>
 Track user fitness progress 
-## 🏋️ Workout Management 
+### 🏋️ Workout Management 
 Create workout plans <br>
 Assign workouts to users <br>
 Track workout schedules <br>
 Manage exercise details 
-## 🥗 Nutrition & Wellness 
+### 🥗 Nutrition & Wellness 
 Maintain diet plans <br>
 Store nutrition information <br>
 Track wellness goals <br>
 Monitor health-related activities 
-## 👨‍🏫 Trainer Management
+###👨‍🏫 Trainer Management
 Manage trainer information <br>
 Assign trainers to members <br>
 Track trainer schedules <br>
-## 💳 Membership Management
+### 💳 Membership Management
 Store membership details <br>
 Track membership duration <br>
 Manage subscription records 
-## 📊 Database Operations 
+### 📊 Database Operations 
 Insert, update, delete, and retrieve records <br>
 Structured relational database design <br>
 Entity relationships and normalization <br>
 Efficient query handling
-## 🛠️ Technologies Used
+### 🛠️ Technologies Used
 
 Depending on your implementation, this project include:
 
-Database: MySQL / SQL
-Backend: Java / Python / Node.js / PHP
-Frontend: HTML, CSS, JavaScript
-Database Tools: MySQL Workbench
-Version Control: Git & GitHub
+Database: MySQL / SQL <br>
+Backend: Java / Python / Node.js / PHP <br>
+Frontend: HTML, CSS, JavaScript <br>
+Database Tools: MySQL Workbench <br>
+Version Control: Git & GitHub 
 ##  🗂️ Database Entities
 
 The database includes the following entities:
